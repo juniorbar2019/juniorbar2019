@@ -2843,6 +2843,9 @@
             },
             "H5": {
               "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_name": "contacts3",

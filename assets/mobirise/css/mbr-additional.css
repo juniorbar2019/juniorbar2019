@@ -3792,14 +3792,14 @@ body {
 }
 .cid-rAiWaj1uNy {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rAiWaj1uNy .title {
   padding-bottom: 2.5rem;
 }
 .cid-rAiWaj1uNy .mbr-text {
-  color: #767676;
+  color: #232323;
   margin: 0;
   padding-top: 0.5rem;
 }
@@ -3825,8 +3825,11 @@ body {
     display: none;
   }
 }
+.cid-rAiWaj1uNy H5 {
+  text-align: left;
+}
 .cid-rAiWcCk9zj {
-  padding-top: 75px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -3859,7 +3862,7 @@ body {
   border-radius: 3px;
 }
 .cid-rAiWcCk9zj .google-map {
-  height: 25rem;
+  height: 31rem;
   position: relative;
 }
 .cid-rAiWcCk9zj .google-map iframe {

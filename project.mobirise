@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JNLC 2019",
-    "currentPage": "committee.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -503,22 +503,22 @@
             "token": "18546283214.727bfe1.02172ee245dc431b88060a547c7cc87b",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
+            "imagesPerRowGrid": "5",
+            "rows": "2",
             "showMoreButton": true,
             "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
+            "imagesPerRowSlider": "4",
+            "spacing": "10",
             "fullWidth": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "overlay": true,
             "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
+            "overlayOpacity": "0.2"
           },
           "title": "Stay Connected",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
@@ -529,7 +529,12 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-b"
+          "_anchor": "instagram-feed-block-b",
+          "_styles": {
+            ".inst__title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "alias": false,

@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1820,7 +1820,7 @@ body {
 .cid-rBGzqSRSy9 {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x1285.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
 }
 .cid-rBGzqSRSy9 P {
   color: #767676;
@@ -1828,7 +1828,7 @@ body {
 .cid-rBGzqSRSy9 .mbr-text,
 .cid-rBGzqSRSy9 .mbr-section-btn {
   color: #232323;
-  text-align: left;
+  text-align: center;
 }
 .cid-rBGzqSRSy9 H1 {
   color: #232323;

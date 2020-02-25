@@ -16293,6 +16293,14 @@ section.lazy-placeholder:after {
 .cid-rQLdBNIreG .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-rRrn4ma2ZB {
+  padding-top: 105px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rRrn4ma2ZB .mbr-section-subtitle {
+  color: #000000;
+}
 .cid-rQLeMGqiu7 {
   background: #ffffff;
   padding-top: 75px;
@@ -16313,27 +16321,6 @@ section.lazy-placeholder:after {
   .cid-rQLeMGqiu7 .image-block {
     width: 100% !important;
   }
-}
-.cid-rQLdLwQ9OE {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rQLdLwQ9OE .title {
-  margin-bottom: 2rem;
-}
-.cid-rQLdLwQ9OE .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rQLdLwQ9OE a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rQLdLwQ9OE a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rQLdLwQ9OE textarea.form-control {
-  min-height: 188px;
 }
 .cid-rQLdBQ46oD {
   padding-top: 45px;

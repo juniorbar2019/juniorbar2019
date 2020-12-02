@@ -9,9 +9,6 @@
 		<loc>http://www.juniorbarbasl.lk/404.html</loc>
 	</url>
 	<url>
-		<loc>http://www.juniorbarbasl.lk/committee.html</loc>
-	</url>
-	<url>
 		<loc>http://www.juniorbarbasl.lk/contact.html</loc>
 	</url>
 	<url>
@@ -85,5 +82,11 @@
 	</url>
 	<url>
 		<loc>http://www.juniorbarbasl.lk/seminar.html</loc>
+	</url>
+	<url>
+		<loc>http://www.juniorbarbasl.lk/committee2019.html</loc>
+	</url>
+	<url>
+		<loc>http://www.juniorbarbasl.lk/committee.html</loc>
 	</url>
 </urlset>
